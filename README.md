@@ -4,7 +4,7 @@ La Inteligencia Artificial promete revolucionarlo todo. Todos los días aparecen
 
 **Pero más allá del hype, ¿qué muestran los datos?**
 
-En este proyecto vamos a sumergirnos en un dataset de aproximadamente 150.000 registros que combina información sobre adopción de IA, características organizacionales, indicadores económicos e impacto laboral en empresas de distintos países e industrias. El objetivo será utilizar herramientas de ciencia de datos para entender qué patrones aparecen cuando observamos el fenómeno a escala global.
+En este proyecto vamos a sumergirnos en un dataset de aproximadamente 150.000 registros que combina información sobre adopción de IA, características organizacionales, indicadores económicos e impacto laboral en empresas de distintos países e industrias. El dataset fue construido a partir de patrones observados en reportes y estudios sobre adopción tecnológica, transformación digital, productividad e impacto laboral, con el objetivo de representar escenarios organizacionales realistas a escala global.
 
 Desde el punto de vista técnico, es un proyecto con mucho espacio para explorar. Comenzaremos con análisis exploratorios profundos para identificar tendencias, relaciones inesperadas y posibles explicaciones detrás de distintos comportamientos. Habrá oportunidades para trabajar con visualizaciones, agregaciones, métricas diseñadas *ad hoc* y *storytelling* basado en datos.
 
